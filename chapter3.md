@@ -238,15 +238,15 @@ AudioEdit Deluxe v4.10 截图
 
 常见的音节结构有以下几种（以下单词都是单音节单词）：
 
-元音：a /eɪ/, eye /aɪ/
-辅音+元音：tea /tiː/, bay /beɪ/
-辅音+辅音+元音：fly /flaɪ/, sky /skaɪ/
-元音+辅音：ebb /eb/, odd /ɔd/
-辅音+元音+辅音：beep /biːp/, big /bɪg/
-元音+辅音+辅音：east /iːst/，axe /æks/
-辅音+辅音+元音+辅音：stop /stɔp/, bleed /bliːd/
-辅音+元音+辅音+辅音：last /læst/, lapse /læps/
-辅音+辅音+元音+辅音+辅音：blast /blæst/, frost /frɔːst/
+1. 元音：a /eɪ/, eye /aɪ/
+2. 辅音+元音：tea /tiː/, bay /beɪ/
+3. 辅音+辅音+元音：fly /flaɪ/, sky /skaɪ/
+4. 元音+辅音：ebb /eb/, odd /ɔd/
+5. 辅音+元音+辅音：beep /biːp/, big /bɪg/
+6. 元音+辅音+辅音：east /iːst/，axe /æks/
+7. 辅音+辅音+元音+辅音：stop /stɔp/, bleed /bliːd/
+8. 辅音+元音+辅音+辅音：last /læst/, lapse /læps/
+9. 辅音+辅音+元音+辅音+辅音：blast /blæst/, frost /frɔːst/
 
 而多音节单词，就用以上的模式去套，看看能够划分出多少个合乎以上模式的音节出来 —— 辅助原则很简单：多音节的单词，除了最后一个音节之外，基本上是以上 9 种之中的前 5 种居多。
 
